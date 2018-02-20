@@ -18,7 +18,7 @@ removed support rails 3&4
 Just add carmen-rails to your Gemfile:
 
 ```ruby
-gem 'carmen-rails', '~> 1.0.2'
+gem 'carmen-rails', git: 'git@github.com:eddiefisher/carmen-rails.git'
 ```
 ## Usage
 
